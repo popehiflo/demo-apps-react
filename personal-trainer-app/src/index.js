@@ -1,16 +1,8 @@
-
-// const elemento = document.createElement('h1')
-
-// elemento.innerHTML = "Hola React!"
-
-// const conteneder = document.getElementById('root')
-
-// conteneder.appendChild(elemento)
-
 import React from "react"
 import ReactDOM from "react-dom"
+import Card from "./components/Card"
+import "bootstrap/dist/css/bootstrap.css"
 
-const elemento = <h1>Hi React!</h1>
 const container = document.getElementById('root')
 
-ReactDOM.render(elemento, container)
+ReactDOM.render(<Card />, container)
