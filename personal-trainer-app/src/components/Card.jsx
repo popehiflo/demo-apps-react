@@ -16,7 +16,7 @@ class Card extends Component {
                         </div>
                         <div className="col-6 Fitness-Card-Info">
                             <h1>Technique Guides</h1>
-                            <p>Learn amazing street workout and calisthenics skills</p>
+                            <p>Learn amazing street workout and calisthenics skills!</p>
                         </div>
                     </div>
                 </div>
