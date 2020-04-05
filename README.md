@@ -5,7 +5,7 @@ App para "programar tus propios ejercicios" y ser tu propio personal trainer
 
 #### Seleccion Jugadores App [seleccion-jugadores](https://github.com/popehiflo/demo-apps-react/tree/master/seleccion-jugadores)<br/>
 Vistaso de la app
-<p align="center"> <img src="https://github.com/popehiflo/demo-apps-react/tree/master/seleccion-jugadores/public/seleccion-jugadores.png" width="773"/></p>
+<p align="center"> <img src="seleccion-jugadores/public/seleccion-jugadores.png" width="773"/></p>
 <br>
 [Redux]<br/>
 De un equipo completo podra escoger los que jugaran y los que estaran en la banca ...
