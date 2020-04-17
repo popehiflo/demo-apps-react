@@ -10,7 +10,7 @@ De un equipo completo podra escoger los que jugaran y los que estaran en la banc
 
 ## Citas Medicas App [simple-medical-appointments](https://github.com/popehiflo/demo-apps-react/tree/master/simple-medical-appointments)<br/>
 Citas medicas para mascotas.
-<p align="center"> <img src="seleccion-jugadores/public/simple-medical-appointments.PNG" width="773"/></p><br/>
+<p align="center"> <img src="simple-medical-appointments/public/simple-medical-appointments.PNG" width="773"/></p><br/>
 [Hooks]<br/>
 Cree citas, almacenelas en LocalStorage y luego podra darlas de alta ...
 
