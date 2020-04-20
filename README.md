@@ -1,13 +1,25 @@
 # demo-apps-react
 
-## Frases de Breaking Bad [mensajes-breakingbad](https://github.com/popehiflo/demo-apps-react/tree/master/mensajes-breakingbad)<br/>
-Citas medicas para mascotas.
+## Noticias Perú [noticias-peru](https://github.com/popehiflo/demo-apps-react/tree/master/noticias-peru)<br/>
+Buscador de Noticias en Perú.
+<p align="center"> <img src="noticias-peru/public/noticias-peru.PNG" width="773"/></p><br/>
+[CustomHooks][Fetch API]<br/>
+Obtienes 
+
+## Cotizar Criptomeda [cotizar-criptomoneda](https://github.com/popehiflo/demo-apps-react/tree/master/cotizar-criptomoneda)<br/>
+Cotizar el precio de criptomonedas.
+<p align="center"> <img src="cotizar-criptomoneda/public/cotizar-criptomoneda.PNG" width="773"/></p><br/>
+[CustomHooks][Axios]<br/>
+Seleccione la criptomoneda que desee y le calculara el precio en la moneda que usted elija ...
+
+## Mensajes de Breaking Bad [mensajes-breakingbad](https://github.com/popehiflo/demo-apps-react/tree/master/mensajes-breakingbad)<br/>
+Citas/Frases de Breaking Bad.
 <p align="center"> <img src="mensajes-breakingbad/public/mensajes-breakingbad.PNG" width="773"/></p><br/>
-[Hooks][Fetch API]<br/>
+[Hooks][Fetch API][Styled Components]<br/>
 Obtienes citas/frases de la serie Breaking Bad
 
 ## Presupuesto y Gastos [presupuesto-gastos](https://github.com/popehiflo/demo-apps-react/tree/master/presupuesto-gastos)<br/>
-Citas medicas para mascotas.
+Presupuesto y gastos.
 <p align="center"> <img src="presupuesto-gastos/public/presupuesto-gastos.PNG" width="773"/></p><br/>
 [Hooks]<br/>
 Asigne un presupuesto del cual se restaran sus gastos (listado de gastos),vera el saldo de diferentes colores (100%,50%,25%) segun se aproxime a cero ...
