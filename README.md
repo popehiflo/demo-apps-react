@@ -1,4 +1,11 @@
 # demo-apps-react
+
+## Frases de Breaking Bad [mensajes-breakingbad](https://github.com/popehiflo/demo-apps-react/tree/master/mensajes-breakingbad)<br/>
+Citas medicas para mascotas.
+<p align="center"> <img src="mensajes-breakingbad/public/mensajes-breakingbad.PNG" width="773"/></p><br/>
+[Hooks][Fetch API]<br/>
+Obtienes citas/frases de la serie Breaking Bad
+
 ## Presupuesto y Gastos [presupuesto-gastos](https://github.com/popehiflo/demo-apps-react/tree/master/presupuesto-gastos)<br/>
 Citas medicas para mascotas.
 <p align="center"> <img src="presupuesto-gastos/public/presupuesto-gastos.PNG" width="773"/></p><br/>
