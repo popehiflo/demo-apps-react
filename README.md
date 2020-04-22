@@ -1,15 +1,21 @@
 # demo-apps-react
 
+## CRUD Redux [crud-redux](https://github.com/popehiflo/demo-apps-react/tree/master/crud-redux)<br/>
+CRUD con redux sobre un fake API.
+<p align="center"> <img src="crud-redux/public/crud-redux.PNG" width="773"/></p><br/>
+[Redux][Axios][React Router]<br/>
+Carga las noticias del Pais, se puede seleccionar por categorias ...
+
 ## Noticias Perú [noticias-peru](https://github.com/popehiflo/demo-apps-react/tree/master/noticias-peru)<br/>
-Buscador de Noticias en Perú.
-<p align="center"> <img src="noticias-peru/public/noticias-peru.PNG" width="773"/></p><br/>
-[CustomHooks][Fetch API]<br/>
-Obtienes 
+Buscador de Noticias.
+<p align="center"> <img src="noticias-peru/public/noticias-react.PNG" width="773"/></p><br/>
+[CustomHooks][Fetch API][Module CSS][News API]<br/>
+Lista las noticias del pais y categoria seleccionada, las trae desde [News API](https://newsapi.org/)
 
 ## Cotizar Criptomeda [cotizar-criptomoneda](https://github.com/popehiflo/demo-apps-react/tree/master/cotizar-criptomoneda)<br/>
 Cotizar el precio de criptomonedas.
 <p align="center"> <img src="cotizar-criptomoneda/public/cotizar-criptomoneda.PNG" width="773"/></p><br/>
-[CustomHooks][Axios]<br/>
+[CustomHooks][Axios][Styled Components]<br/>
 Seleccione la criptomoneda que desee y le calculara el precio en la moneda que usted elija ...
 
 ## Mensajes de Breaking Bad [mensajes-breakingbad](https://github.com/popehiflo/demo-apps-react/tree/master/mensajes-breakingbad)<br/>
